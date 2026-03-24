@@ -1,0 +1,61 @@
+{
+  "department": "Artificial Intelligence & Machine Learning",
+  "academicYear": "2025-26",
+  "semester": "IV",
+  "section": "A",
+  "roomNo": "C401",
+  "schedule": {
+    "MON": [
+      { "id": "mon-1", "time": "09:15 - 11:05 AM", "subject": "ADA(A2)/DBMS(A1)", "type": "Lab", "duration": 2 },
+      { "id": "mon-2", "time": "11:05 - 11:20 AM", "subject": "BREAK", "type": "Break", "duration": 1 },
+      { "id": "mon-3", "time": "11:25 - 12:15 PM", "subject": "Remedial Class", "type": "Theory", "duration": 1 },
+      { "id": "mon-4", "time": "12:15 - 01:10 PM", "subject": "DBMS", "type": "Theory", "duration": 1 },
+      { "id": "mon-5", "time": "01:10 - 02:00 PM", "subject": "LUNCH", "type": "Break", "duration": 1 },
+      { "id": "mon-6", "time": "02:00 - 03:50 PM", "subject": "PROCTORING(A1)", "type": "Lab", "duration": 2 },
+      { "id": "mon-7", "time": "03:50 - 04:45 PM", "subject": "LIBRARY", "type": "Extra", "duration": 1 }
+    ],
+    "TUE": [
+      { "id": "tue-1", "time": "09:15 - 11:05 AM", "subject": "ADA(A1)/DBMS(A2)", "type": "Lab", "duration": 2 },
+      { "id": "tue-2", "time": "11:05 - 11:20 AM", "subject": "BREAK", "type": "Break", "duration": 1 },
+      { "id": "tue-3", "time": "11:25 - 12:15 PM", "subject": "DM", "type": "Theory", "duration": 1 },
+      { "id": "tue-4", "time": "12:15 - 01:10 PM", "subject": "ADA", "type": "Theory", "duration": 1 },
+      { "id": "tue-5", "time": "01:10 - 02:00 PM", "subject": "LUNCH", "type": "Break", "duration": 1 },
+      { "id": "tue-6", "time": "02:00 - 03:50 PM", "subject": "PROCTORING(A2)", "type": "Lab", "duration": 2 },
+      { "id": "tue-7", "time": "03:50 - 04:45 PM", "subject": "LIBRARY", "type": "Extra", "duration": 1 }
+    ],
+    "WED": [
+      { "id": "wed-1", "time": "09:15 - 10:10 AM", "subject": "ADA", "type": "Theory", "duration": 1 },
+      { "id": "wed-2", "time": "10:10 - 11:05 AM", "subject": "DM Tutorial", "type": "Tutorial", "duration": 1 },
+      { "id": "wed-3", "time": "11:05 - 11:20 AM", "subject": "BREAK", "type": "Break", "duration": 1 },
+      { "id": "wed-4", "time": "11:25 - 12:15 PM", "subject": "AI", "type": "Theory", "duration": 1 },
+      { "id": "wed-5", "time": "12:15 - 01:10 PM", "subject": "DBMS", "type": "Theory", "duration": 1 },
+      { "id": "wed-6", "time": "01:10 - 02:00 PM", "subject": "LUNCH", "type": "Break", "duration": 1 },
+      { "id": "wed-7", "time": "02:00 - 03:50 PM", "subject": "MONGO DB(A1)/AI(A2)", "type": "Lab", "duration": 2 },
+      { "id": "wed-8", "time": "03:50 - 04:45 PM", "subject": "LIBRARY", "type": "Extra", "duration": 1 }
+    ],
+    "THU": [
+      { "id": "thu-1", "time": "09:15 - 10:10 AM", "subject": "AI", "type": "Theory", "duration": 1 },
+      { "id": "thu-2", "time": "10:10 - 11:05 AM", "subject": "DM", "type": "Theory", "duration": 1 },
+      { "id": "thu-3", "time": "11:05 - 11:20 AM", "subject": "BREAK", "type": "Break", "duration": 1 },
+      { "id": "thu-4", "time": "11:25 - 12:15 PM", "subject": "BIO", "type": "Theory", "duration": 1 },
+      { "id": "thu-5", "time": "12:15 - 01:10 PM", "subject": "UHV", "type": "Theory", "duration": 1 },
+      { "id": "thu-6", "time": "01:10 - 02:00 PM", "subject": "LUNCH", "type": "Break", "duration": 1 },
+      { "id": "thu-7", "time": "02:00 - 03:50 PM", "subject": "MONGO DB(A2)/AI(A1)", "type": "Lab", "duration": 2 },
+      { "id": "thu-8", "time": "03:50 - 04:45 PM", "subject": "LIBRARY", "type": "Extra", "duration": 1 }
+    ],
+    "FRI": [
+      { "id": "fri-1", "time": "09:15 - 10:10 AM", "subject": "AI", "type": "Theory", "duration": 1 },
+      { "id": "fri-2", "time": "10:10 - 11:05 AM", "subject": "DBMS", "type": "Theory", "duration": 1 },
+      { "id": "fri-3", "time": "11:05 - 11:20 AM", "subject": "BREAK", "type": "Break", "duration": 1 },
+      { "id": "fri-4", "time": "11:25 - 12:15 PM", "subject": "ADA", "type": "Theory", "duration": 1 },
+      { "id": "fri-5", "time": "12:15 - 01:10 PM", "subject": "DM Tutorial", "type": "Tutorial", "duration": 1 },
+      { "id": "fri-6", "time": "01:10 - 02:00 PM", "subject": "LUNCH", "type": "Break", "duration": 1 },
+      { "id": "fri-7", "time": "02:00 - 02:55 PM", "subject": "PE", "type": "Theory", "duration": 1 },
+      { "id": "fri-8", "time": "02:55 - 03:50 PM", "subject": "BIO", "type": "Theory", "duration": 1 },
+      { "id": "fri-9", "time": "03:50 - 04:45 PM", "subject": "LIBRARY", "type": "Extra", "duration": 1 }
+    ],
+    "SAT": [
+      { "id": "sat-1", "time": "09:15 - 04:45 PM", "subject": "AICTE ACTIVITIES", "type": "Extra", "duration": 1 }
+    ]
+  }
+}
